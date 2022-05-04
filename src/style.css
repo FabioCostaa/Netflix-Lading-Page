@@ -234,7 +234,7 @@ header .logo img {
     max-width: 32px;
 }
 
-@media (max-width: 991px) {
+@media (max-width: 1400px) {
     header {
         padding: 20px 50px;
         flex-direction: column;
