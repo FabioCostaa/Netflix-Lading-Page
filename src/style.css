@@ -267,6 +267,10 @@ header .logo img {
         bottom: 50px;
     }
 
+    .banner .content .buttons a {
+        margin-bottom: 0;
+    }
+
     .trailer video {
         max-width: 90%;
     }
